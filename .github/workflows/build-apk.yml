@@ -34,5 +34,5 @@ jobs:
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: Apk-Banned-Palsu
-          path: project/apkwork/app/build/outputs/apk/debug/*.apk
+          name: Apk-Zombie-war
+          path: project/ZombieWarAndroid/app/build/outputs/apk/debug/*.apk
