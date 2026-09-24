@@ -14,7 +14,7 @@ jobs:
 
       - name: Extract project
         run: |
-          unzip -o "Apk Banned palsu by Rap - Android Project.zip" -d project
+          unzip -o "Apk%20Banned%20palsu%20by%20Rap%20-%20Android%20Project.zip" -d project
 
       - name: Setup Java
         uses: actions/setup-java@v5
